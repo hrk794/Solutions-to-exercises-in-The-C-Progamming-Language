@@ -3,7 +3,7 @@ its input. It is easy to draw the histogram with the bars horizontal; a vertical
 orientation is more challenging.*/
 
 
-/*This one printss a horizontal histogram*/
+/*This one prints a horizontal histogram*/
 
 #include <stdio.h>
 

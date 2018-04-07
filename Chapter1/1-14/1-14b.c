@@ -34,7 +34,7 @@ main()
 	for (j = max_height; j > 0; --j)
 	{
 		printf("%d\t", j);
-		for (i = 0; i < 10; ++i)
+		for (i = 0; i < 26; ++i)
 			{
 
 				if (freq[i] >= j)
